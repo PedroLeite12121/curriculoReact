@@ -99,8 +99,7 @@ const styles = StyleSheet.create({
     padding: '1.7vh',
     paddingLeft: '4vh',
     paddingRight: '4vh',
-    width: '39vw',
-    height: '98vh'
+    width: '39vw'
   }, 
 
   text:{
@@ -111,3 +110,4 @@ const styles = StyleSheet.create({
 
   
 });
+
